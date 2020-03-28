@@ -1,7 +1,7 @@
 /**
  * Random Swim CopyOfWorkout.
  *
- * @author (Joshua Hankins)
+ * @author (Joshua)
  * @version (Feb. 26, 2020)
  */
 import java.util.Random;
